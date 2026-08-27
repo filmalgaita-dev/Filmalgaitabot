@@ -1,1 +1,5 @@
-python-telegram-bot
+pyTelegramBotAPI
+requests
+flask
+gunicorn
+psycopg2-binary
