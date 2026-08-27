@@ -1,7 +1,5 @@
-requirements.txt
-
-python-telegram-bot==22.5
-flask==3.1.2
-gunicorn==23.0.0
-ffmpeg-python==0.2.0
-python-dotenv==1.1.1
+python-telegram-bot
+flask
+gunicorn
+requests
+yt-dlp
